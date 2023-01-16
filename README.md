@@ -15,7 +15,9 @@ Everyone has their own journey.
 ***How to keep yourself in a growth mindset***
 
 1) _I should learn something new everyday_
+
 2) _Need to keep things in balance_
+
 3) Success is subjective. 
 
 <sub>Success is personal to me and shouldn't be compared to others</sub>
