@@ -2,6 +2,8 @@
 
 ## Table of content ##
 
+[class 02](https://github.com/vitalii2023/reading-notes/blob/main/class-02.md)
+
 # who am I
 
  *Hi, my name is Vitalii*
