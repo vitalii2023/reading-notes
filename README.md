@@ -1,6 +1,6 @@
 # reading-notes
 
-## Table of content##
+## Table of content ##
 
 # who am I
 
