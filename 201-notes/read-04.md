@@ -59,7 +59,7 @@ Click confirm merge.
 In the terminal navigate to the project. Example: user/chris cd into projects then cd into about-me. 
 Now you are in the project directory on the terminal enter command git pull. 
   
-  kjhskjhd shdf kjsdhf kjsdhf kjsf kjsdf
+  kjhskjhd shdf kjsdhf kjsdhf kjsf kjsdf. 
   lkjglksjfkl
 
 
